@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="brblogspot.css">
+        <meta name="viewport" content="width=device-width">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <meta name="author" content="Velocity Studios">
+        <meta name="description" content="Blog for HTML/CSS tutorials. Wanna learn HTML? Trouble with CSS? Find answers here.">
+        <meta name="generator" content="Velocity Studios">
+        <title>
+            Velocity Tutorial Blogspot
+        </title>
+    </head>
+    <body>
+        <div id="navigationButtons">
+            <a class="navButtons" href="aboutme.html">About Me</a>
+            <a class="navButtons" href="contactinfo.html">Contact Information</a>
+            <a class="navButtons" href="entries.html">Entries</a>
+            <a class="navButtons" href="othersites.html">Other Websites I Code</a>
+            <a class="navButtons" href="coding.html">Source Code</a>
+            <a class="navButtons" href="codeexamples.html">Source Examples</a>
+            <a class="navButtons" href="csstutorials.html">CSS Tutorials</a>
+            <center>
+            <a class="homebutton" href="index.html">BR Blogspot</a>
+            </center>
+        </div>
+        <div id="indexMain">
+            <div id="indexLeftColumn">
+                <b>~~~News~~~</b>
+                <div id="newspiece">
+                    <a class="newslinks" href="entryone.html">Site Created!</a>
+                    <p>Site Officially Open!</p>
+                </div>
+                <p></p>
+            </div>
+            <div id="indexMainColumn">
+                <b>Welcome!</b><br>
+                <p>
+                    Welcome to my site! Just like you, I wanted to learn HTML. But sometimes, it got confusing. I didn't 
+                    understand the various tags. Now that I do, I want to help others learn what the various tags are as 
+                    well.
+                </p>
+                <br>
+                <center>
+                <img class="codeimage" src="mainpage.png" alt="HTML code" title="HTML code">
+                </center>
+                <br>
+                <p>
+                    Of course, HTML isn't just tags, it's building a website. And part of that process includes CSS, which
+                    I will also talk about! This is a site for HTML <strong>and</strong> CSS!
+                </p>
+                <br>
+                <p>
+                    So, I wish you good luck, and I hope this helps!
+                </p>
+            </div>
+        </div>
+        <div id="bottomDivision">
+            <p>
+                Copywright goes here.
+            </p>
+        </div>
+    </body>
+</html>
